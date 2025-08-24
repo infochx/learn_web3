@@ -190,8 +190,6 @@ go get -u github.com/dgrijalva/jwt-go
    }
    ```
 
-   
-
 4. 获取所有文章
 
    ```bash 
@@ -285,16 +283,6 @@ go get -u github.com/dgrijalva/jwt-go
    ```json
    {"message":"deleted successfuly"}
    ```
-
-9. ```bash 
-      
-   ```
-
-      预期响应
-
-      ```json
-      
-      ```
 
 10. 创建评论
 
