@@ -1,0 +1,6 @@
+mysql:
+  dsn: "root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Asia%2FShanghai"
+  maxIdleConns: 10
+  maxOpenConns: 100
+jwt:
+  jwtSecret: "53f01311-b030-b150-1e2a-610f94c39693"
