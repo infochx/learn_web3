@@ -23,7 +23,7 @@
   
   
   
-  <img src="erc20.png" alt="erc20" style="zoom:50%;" />
+  <img src="img/erc20.png" alt="erc20" style="zoom:50%;" />
   
   
 
@@ -66,7 +66,7 @@
    
      合约地址：0x3db3BDD2e1fA5c2940a906DfD3eFC8d3dF835F8D
 
-<img src="erc721.png" alt="erc721" style="zoom:50%;" />
+<img src="img/erc721.png" alt="erc721" style="zoom:50%;" />
 
 ## 作业3：编写一个讨饭合约
 
@@ -111,7 +111,7 @@
 2. 合约地址：0x82Ef0d02b394f7bCA7aE5166D86bb2E6fFB2261a
 3. 测试截图：
 
-<img src="BeggingContract-test.png" alt="BeggingContract-test" style="zoom:67%;" />
+<img src="img/BeggingContract-test.png" alt="BeggingContract-test" style="zoom:67%;" />
 
 
 
